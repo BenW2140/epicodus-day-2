@@ -18,5 +18,6 @@ p {
 
 ul {
   font-size: 15px;
-  line-height: 20px; 
+  line-height: 20px;
+  font-style: italic;
 }
